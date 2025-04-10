@@ -1,2 +1,3 @@
 #!/bin/bash
-python bot.py
+pip install -r requirements.txt
+python3 bot.py
